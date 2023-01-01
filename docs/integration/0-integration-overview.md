@@ -8,7 +8,7 @@ has_children: false
 
 # Live Integrations and Extensions for Go.Data
 
-There are a number of solutions that have been built by Go.Data users to add on to existing functionality or to link to other systems. You can find the full list of related repositories connected to the Go.Data tool in the overarching WHO Github Repository by filtering for topics = "go-data", as seen [here](https://github.com/WorldHealthOrganization?q=go-data&type=&language=) Below we list some examples of technical solutions that have been built. 
+There are a number of solutions that have been built by Go.[Data](https://godata.work/sk/datasety) users to add on to existing functionality or to link to other systems. You can find the full list of related repositories connected to the Go.Data tool in the overarching WHO Github Repository by filtering for topics = "go-data", as seen [here](https://github.com/WorldHealthOrganization?q=go-data&type=&language=) Below we list some examples of technical solutions that have been built. 
 
 _To engage directly with this community, visit the "Interoperability" forum in the CoP [here](https://community-godata.who.int/topics/interoperability/5fd8ec64f5c77e114e6c6823)_
 
